@@ -1,0 +1,88 @@
+{
+    "dictVal" : [
+        {
+            "date": "28-04-2019",
+            "description": "Doors(Exterior)",
+            "qty": "2",
+            "rate": "$50.00",
+            "amount": "$100.00"
+        },
+        {
+            "date": "28-04-2019",
+            "description": "Wall Framing",
+            "qty": "2",
+            "rate": "$50.00",
+            "amount": "$100.00"
+        },
+        {
+            "date": "",
+            "description": "",
+            "qty": "",
+            "rate": "",
+            "amount": "$0.00"
+        },
+        {
+            "date": "",
+            "description": "",
+            "qty": "",
+            "rate": "",
+            "amount": "$0.00"
+        },
+        {
+            "date": "",
+            "description": "",
+            "qty": "",
+            "rate": "",
+            "amount": "$0.00"
+        },
+        {
+            "date": "",
+            "description": "",
+            "qty": "",
+            "rate": "",
+            "amount": "$0.00"
+        }
+    ],
+    
+    "dictKey" : [
+        {
+            "dict_date": "Date"
+        },
+        {
+            "dict_description": "Description"
+        },
+        {
+            "dict_qty": "Qty/Hrs"
+        },
+        {
+            "dict_rate" : "Rate"
+        },
+        {
+            "dict_amount" : "Amount"
+        }
+    ],
+
+    "details" : {
+        "companyDetails" : {
+            "name": "Altenwerth Group",
+            "address": "8916 Fairfield St.Revere, MA",
+            "phone": "+1 505-280-3816",
+            "website": "chelsie.schneider@lakin.net",
+            "invoice_id" : "98576",
+            "invoice_date": "23-09-2010"
+        },
+        "invoice_to": {
+            "name": "Altra Systems",
+            "address": "9231 Linda Dr. Waukegan, IL",
+            "phone": "+1 684-782-9116",
+            "emailAddr": "hivag63419@altrasys.com",
+            "due_date": "12-10-2010",
+            "payment_date": "11-10-2010"
+        },
+        "bank": {
+            "accNo": "5163200000000792",
+            "name": "NORTH CREDIT TRUST",
+            "ifsc": "SBIN0011513"
+        }
+    }
+}
